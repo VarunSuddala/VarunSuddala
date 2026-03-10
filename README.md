@@ -1,16 +1,39 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=varunsuddala&color=blue)
 
-<!--
-**VarunSuddala/VarunSuddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Varun Suddala</h1>
 
-Here are some ideas to get you started:
+### 🚀 Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning FastAPI, System Design, DevOps
+- 🧠 Practicing PostgreSQL & SQL
+- 🌐 Portfolio: varunsuddala.me
+
+---
+
+### Connect with me
+
+LinkedIn | HackerRank | GeeksForGeeks
+
+---
+
+### Languages
+
+Python 
+
+### Backend
+
+FastAPI 
+
+### Databases
+
+PostgreSQL MySQL MongoDB
+
+### Cloud
+
+AWS Azure GCP
+
+---
+
+### GitHub Stats
+
+(streak graph here)
