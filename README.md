@@ -29,7 +29,7 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash" />
+<img src="https://skillicons.dev/icons?i=python,bash,go" />
 </p>
 
 ---
