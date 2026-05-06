@@ -37,7 +37,7 @@
 ## ⚡ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ---
@@ -59,29 +59,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varunsuddala&show_icons=true&theme=tokyonight"/>
-</p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsuddala&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsuddala&theme=tokyo-night"/>
-</p>
-
----
 
 ## 🧠 Currently Working On
 
