@@ -21,7 +21,7 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/varun-suddala-b28621268"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://linkedin.com/in/varun-suddala-b28621268" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/varunsuddala"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
