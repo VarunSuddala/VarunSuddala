@@ -53,6 +53,8 @@
 > JWT Auth · CI/CD Pipelines · Microservices Architecture
 
 ---
+### Tools & Platforms
+<p><img src="https://skillicons.dev/icons?i=postman,vscode,github" /></p>
 
 ## 🧠 Currently Working On
 
