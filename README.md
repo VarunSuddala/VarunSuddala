@@ -27,6 +27,9 @@
   <a href="https://github.com/varunsuddala" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=varunsuddala446@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 </p>
 
 ---
