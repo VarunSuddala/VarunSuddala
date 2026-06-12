@@ -18,7 +18,7 @@
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/varun-suddala-b28621268" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 <p><img src="https://skillicons.dev/icons?i=python,go,js,bash" /></p>
